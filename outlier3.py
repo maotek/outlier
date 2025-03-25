@@ -1,10 +1,10 @@
-import pygame as pg
+import pygamer as pg
 
 import sys
 
 import time
 
-from pygame.locals import *
+from pygamer.locals import *
 
 
 

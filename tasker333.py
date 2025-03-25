@@ -8,9 +8,7 @@ class BusTicketAutomaat:
             basisprijs = 0
         elif 4 <= leeftijd <= 18:
             basisprijs = 15
-        elif 19 <= leeftijd <= 25:
-            basisprijs = 30
-        elif 26 <= leeftijd <= 50:
+        elif 19 <= leeftijd <= 50:
             basisprijs = 30
         else:
             basisprijs = 18

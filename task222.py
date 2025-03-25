@@ -51,6 +51,3 @@ def bestel_bier(bestelde_bieren, leeftijd, kortingscode):
 bestel_bier(["Duvel", "Duvel", "Duvel"], 19, "a")
 bestel_bier(["Westmalle Tripel", "Duvel"], 18, "abcde")
 
-
-Something went wrong while linting the response. - Please try again later. If that doesn't work, please contact support.
-
