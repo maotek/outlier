@@ -1,10 +1,10 @@
-import pygamer as pg
+from Lingo_BugFix import pygamer as pg
 
 import sys
 
 import time
 
-from pygamer.locals import *
+from Lingo_BugFix.pygamer import *
 
 
 
